@@ -13,4 +13,4 @@ This repository serves to showcase my skills and as a platform to share my proje
 
 
 ### Visualizations with Tableau
-![Alt text](https://public.tableau.com/views/VeronikaShaytarova_8730544_Final/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
+[COVID 19 Data Visualization](https://public.tableau.com/views/VeronikaShaytarova_8730544_Final/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
