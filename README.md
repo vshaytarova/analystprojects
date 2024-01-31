@@ -7,7 +7,7 @@ Proficient in SQL, MS Excel, Power BI, and Tableau, I excel in data processing a
 This repository serves to showcase my skills and as a platform to share my projects. Fill free to go over it!
 
 ## Table of Content
-About(https://github.com/vshaytarova/analystprojects/tree/main?tab=readme-ov-file#about)
+[About](https://github.com/vshaytarova/analystprojects/tree/main?tab=readme-ov-file#about)
 Visualizations
 Tableau
 
