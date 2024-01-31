@@ -9,7 +9,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 ## Table of Content
 - [About](https://github.com/vshaytarova/analystprojects/tree/main?tab=readme-ov-file#about)
 - Visualizations
-  - Tableau
+  - [Tableau](https://github.com/vshaytarova/analystprojects/blob/main/README.md#visualizations-with-tableau)
 
 
 ### Visualizations with Tableau
