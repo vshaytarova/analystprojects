@@ -10,3 +10,6 @@ This repository serves to showcase my skills and as a platform to share my proje
 - [About](https://github.com/vshaytarova/analystprojects/tree/main?tab=readme-ov-file#about)
 - Visualizations
   - Tableau
+
+
+### Visualizations with Tableau
