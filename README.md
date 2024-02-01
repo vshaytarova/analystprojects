@@ -1,4 +1,4 @@
-# Veronika Shaytarova
+# Veronika Shaytarova - Data Analyst Portfolio
 ## About
 
 I am experienced Data and Business Intelligence Analyst with over 5 years of experience in data analytics for sales and market analysis in the higher education industry.
@@ -16,10 +16,10 @@ This repository serves to showcase my skills and as a platform to share my proje
   - [Tableau](https://github.com/vshaytarova/analystprojects/blob/main/README.md#visualizations-with-tableau)
 
 
-### Python :snake:
+### :snake: Python
 COVID cases in Toronto [data analysis & cleaning](https://github.com/vshaytarova/analystprojects/blob/main/Python/COVID_cases_in_Toronto_analysis.ipynb)
 
-### Visualizations with Tableau
+### :bar_chart: Visualizations with Tableau
 [COVID 19 Data Visualization](https://public.tableau.com/views/COVID_Story_17068128268750/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 [COVIS cases in Toronto Visualization](https://public.tableau.com/views/COVID_cases_Toronto/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
