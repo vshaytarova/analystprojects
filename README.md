@@ -16,10 +16,10 @@ This repository serves to showcase my skills and as a platform to share my proje
   - [Tableau](https://github.com/vshaytarova/analystprojects/blob/main/README.md#visualizations-with-tableau)
 
 
-### Python
+### Python :snake:
 COVID cases in Toronto [data analysis & cleaning](https://github.com/vshaytarova/analystprojects/blob/main/Python/COVID_cases_in_Toronto_analysis.ipynb)
 
 ### Visualizations with Tableau
-[COVID 19 Data Visualization](https://public.tableau.com/views/VeronikaShaytarova_8730544_Final/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
+[COVID 19 Data Visualization](https://public.tableau.com/views/COVID_Story_17068128268750/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
-[COVIS cases in Toronto Visualization](https://public.tableau.com/views/COVID_cases_Toronto_clean/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+[COVIS cases in Toronto Visualization](https://public.tableau.com/views/COVID_cases_Toronto/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
