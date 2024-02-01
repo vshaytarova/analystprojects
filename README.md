@@ -17,7 +17,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 
 
 ### Python
-COVID cases in Toronto [data analysis](https://github.com/vshaytarova/analystprojects/blob/main/Python/COVID_cases_in_Toronto_analysis.ipynb)
+COVID cases in Toronto [data analysis & cleaning](https://github.com/vshaytarova/analystprojects/blob/main/Python/COVID_cases_in_Toronto_analysis.ipynb)
 
 ### Visualizations with Tableau
 [COVID 19 Data Visualization](https://public.tableau.com/views/VeronikaShaytarova_8730544_Final/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
