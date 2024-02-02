@@ -19,7 +19,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 ### :snake: Python
 COVID cases in Toronto [data analysis & cleaning](https://github.com/vshaytarova/analystprojects/blob/main/Python/COVID_cases_in_Toronto_analysis.ipynb)
 
-Credit card fraud detection [data analysis & visualization](https://github.com/vshaytarova/analystprojects/blob/main/Python/Fraud_detection.ipynb)
+Credit card fraud detection data analysis & visualization [part 1](https://github.com/vshaytarova/analystprojects/blob/main/Python/Fraud_Detection_Part_1.ipynb), [part 2](https://github.com/vshaytarova/analystprojects/blob/main/Python/Fraud_Detection_Part_2.ipynb)
 
 ### :bar_chart: Visualizations with Tableau
 [COVID 19 Data Visualization](https://public.tableau.com/views/COVID_Story_17068128268750/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
