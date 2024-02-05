@@ -12,7 +12,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 - [About](https://github.com/vshaytarova/analystprojects/tree/main?tab=readme-ov-file#about)
 - [Python](https://github.com/vshaytarova/analystprojects/tree/main?tab=readme-ov-file#python)
 - Excel
-- SQL
+- [SQL](https://github.com/vshaytarova/analystprojects?tab=readme-ov-file#computer-sql)
 - Visualizations
   - Power BI
   - [Tableau](https://github.com/vshaytarova/analystprojects/blob/main/README.md#visualizations-with-tableau)
