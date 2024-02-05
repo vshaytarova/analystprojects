@@ -23,6 +23,9 @@ COVID cases in Toronto [data analysis & cleaning](https://github.com/vshaytarova
 
 Credit card fraud detection data analysis & visualization [part 1](https://github.com/vshaytarova/analystprojects/blob/main/Python/Fraud_Detection_Part_1.ipynb), [part 2](https://github.com/vshaytarova/analystprojects/blob/main/Python/Fraud_Detection_Part_2.ipynb)
 
+### :computer: SQL
+Creating the database with multiple tables, error log and warehouse [SQL project](SQL/SQL_Query_Data_Error_Log_Warehouse.sql)
+
 ### :bar_chart: Visualizations with Tableau
 [COVID 19 Data Visualization](https://public.tableau.com/views/COVID_Story_17068128268750/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
