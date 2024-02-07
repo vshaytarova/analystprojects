@@ -15,7 +15,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 - [SQL](https://github.com/vshaytarova/analystprojects?tab=readme-ov-file#computer-sql)
 - Visualizations
   - [Tableau](https://github.com/vshaytarova/analystprojects/blob/main/README.md#visualizations-with-tableau)
-  - Power BI
+  - [Power BI](https://github.com/vshaytarova/analystprojects/blob/main/README.md#chart_with_upwards_trend-power-bi)
 
 
 ### :snake: Python
