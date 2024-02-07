@@ -32,4 +32,4 @@ Creating the database with multiple tables, error log and warehouse [SQL project
 [COVIS cases in Toronto Visualization](https://public.tableau.com/views/COVID_cases_Toronto/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ### :chart_with_upwards_trend: Power BI
-
+![Alt text](https://github.com/vshaytarova/analystprojects/blob/main/Power%20BI/Sales_dashboard.png)
