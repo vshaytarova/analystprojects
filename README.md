@@ -14,8 +14,8 @@ This repository serves to showcase my skills and as a platform to share my proje
 - Excel
 - [SQL](https://github.com/vshaytarova/analystprojects?tab=readme-ov-file#computer-sql)
 - Visualizations
-  - Power BI
   - [Tableau](https://github.com/vshaytarova/analystprojects/blob/main/README.md#visualizations-with-tableau)
+  - Power BI
 
 
 ### :snake: Python
@@ -30,3 +30,6 @@ Creating the database with multiple tables, error log and warehouse [SQL project
 [COVID 19 Data Visualization](https://public.tableau.com/views/COVID_Story_17068128268750/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 [COVIS cases in Toronto Visualization](https://public.tableau.com/views/COVID_cases_Toronto/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
+### :chart_with_upwards_trend: Power BI
+
